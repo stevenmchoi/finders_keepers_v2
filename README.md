@@ -1,6 +1,6 @@
 # Finders Keepers v2
 
-This is a redo of the original project [Finders Keepers](https://github.com/stevenmchoi/finders_keepers).
+This is a redo of the original project [Finders Keepers](https://github.com/stevenmchoi/finders_keepers), using the tutorial project from [mern_practice](https://github.com/stevenmchoi/mern_practice) created from the Udemy course: [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/).
 
 ## Background and Overview
 
